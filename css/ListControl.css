@@ -1,0 +1,26 @@
+.listFooterLabel {
+    color: #6E6F77;
+    font-size: 0.857143rem;
+    width: -webkit-fill-available;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.cmdbar {
+    width: -webkit-fill-available;
+}
+.cmdbar i {
+    font-size: 0.7rem;
+  }
+.cmdbar div {
+    height: 30px;
+}
+.listFooterSelect {
+    color: #6E6F77;
+    font-size: 0.857143rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-left: 3rem;
+    width: 10rem;
+  border-color: #6E6F77;
+
+}

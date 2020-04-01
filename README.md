@@ -7,9 +7,11 @@ Steps
 2. Enable Aggregate Grid for rquired subgrids.
 
 ![alt text](https://github.com/nijos/AggregateGridPCF/blob/master/Grid.JPG)
+
 3. Done select columns to view SUM, Count, Avg.
 
 ![alt text](https://github.com/nijos/AggregateGridPCF/blob/master/ezgif.com-gif-maker.gif).
+
 Only numeric and currency fields are considered.
 
  Note: This is not a  production ready control and has not follweed all the best practices, consider this as POC only.

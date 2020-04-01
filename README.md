@@ -21,6 +21,8 @@ Only numeric and currency fields are considered.
  Known bugs.
  1. Count is considering null values also.
  2. NAN error on some scenarios.
+ 
+ CSS and Design Courtesy: Hovering details list by Power Maveric: https://github.com/Power-Maverick/PCF-Controls/tree/master/HoverDetailsList
 
 
 

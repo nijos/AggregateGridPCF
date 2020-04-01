@@ -19,7 +19,7 @@ Only numeric and currency fields are considered.
  you are always welcome to commit enhancements to this repo.
  
  Known bugs.
- 1. Count is considering nul values also.
+ 1. Count is considering null values also.
  2. NAN error on some scenarios.
 
 

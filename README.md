@@ -1,5 +1,6 @@
 # Aggregate Grid PCF
-PCF control grid to find aggregate of selected column directly from Sub Grid
+PCF control grid to find aggregate of selected column directly from SubGrid
+
 Nomrally we have to export to excel to  find aggregates of numeric columns in a subgrid, Now with this PCF control you can do this directly from Subgrids.
 # Steps
 1. Import control solution.
